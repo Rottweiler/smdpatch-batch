@@ -2,7 +2,7 @@
 @echo off
 echo ________________________________________________________________________________
 echo                          smdpatch.bat by Rottweiler
-echo                     https://github.com/Rottweiler/smdpatch
+echo                 https://github.com/Rottweiler/smdpatch-batch
 echo[
 echo --------------------------------------------------------------------------------
 FOR %%f IN (*.smd) DO (
